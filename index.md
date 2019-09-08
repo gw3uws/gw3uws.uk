@@ -4,7 +4,7 @@ draft: false
 title: Index 
 ---
 
-
+#UPDATEDD
 # [Join our society](https://www.swansea-union.co.uk/activities/society/hamradio/)
 
 
