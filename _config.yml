@@ -41,10 +41,9 @@ include: ['_pages']
 header_pages:
   - index.md
   - _pages/constitution.md
-  - constitution.md
-  - history.md
+  - _pages/history.md
   
   collections:
-    pagse:
+    pages:
       output: true
       permalink: /:title
