@@ -7,8 +7,6 @@
 @import "bootstrap-4-jekyll/bootstrap-4-jekyll";
 @import "bootstrap_customization";
 
-//colours
-$bg-dark: #343a40 !default;
 
 html {
   position: relative;
@@ -17,18 +15,6 @@ html {
 
 body {
  margin-bottom: 60px; /* Margin bottom by footer height */
-}
-
-.navbar {
-	background-color: #343a40;	
-}
-
-.navbar-default {
-	background-color: #343a40;	
-}
-
-.navbar-dark {
-	background-color: #343a40;	
 }
 
 .navbar-custom {
