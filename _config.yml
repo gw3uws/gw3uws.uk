@@ -41,4 +41,5 @@ include: ['_pages']
 header_pages:
   - index.md
   - /_pages/constitution.md
+  - constitution.md
   - history.md
