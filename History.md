@@ -6,7 +6,7 @@ title: History
 
 ## Club Revival - 2017
 
-In 2017, Peter MØSWN, the current president of the club, founded the current amateur radio society at Swansea University. This following statement explains the process which Peter underwent to found the new club:
+In 2017, Peter Barnes (MØSWN), the current president of the club, founded the current amateur radio society at Swansea University. This following statement explains the process which Peter underwent to found the new club:
 
 >I'm an Electrical and Electronic Engineering student at Swansea University, and I've been enjoying Amateur Radio since I joined the Thornbury & South Gloucestershire in 2013. Upon joining the University, naturally one of my first questions was, 'is there a radio club?'. Little was I know that this question would lead me down a long path of research and discovery, ultimately leading to the fouding of a new radio society at the university. __Peter MØSWN__
 
