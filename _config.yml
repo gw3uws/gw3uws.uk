@@ -40,6 +40,6 @@ include: ['_pages']
 # A list of the pages to display in the navigation bar
 header_pages:
   - index.md
-  - /_pages/constitution.md
+  - _pages/constitution.md
   - constitution.md
   - history.md
