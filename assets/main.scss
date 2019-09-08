@@ -7,6 +7,9 @@
 @import "bootstrap-4-jekyll/bootstrap-4-jekyll";
 @import "bootstrap_customization";
 
+//colours
+$bg-dark: #343a40 !default;
+
 html {
   position: relative;
   min-height: 100%;
