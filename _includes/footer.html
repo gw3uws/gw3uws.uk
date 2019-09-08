@@ -1,28 +1,7 @@
-
-<div class="py-5 border-top">
-  <div class="container">
-    <div class="row">
-      <div class="col-sm">
-        <ul class="list-unstyled">
-          <li>
-            {%- if site.author -%}
-              {{ site.author | escape }}
-            {%- else -%}
-              {{ site.title | escape }}
-            {%- endif -%}
-          </li>
-          {%- if site.email -%}
-            <li>
-              <a href="mailto:{{ site.email }}">
-                {{ site.email }}
-              </a>
-            </li>
-          {%- endif -%}
-        </ul>
-      </div>
-      <div class="col-sm text-right">
-        <p><a href="github.com/pe5er/gw3uws_website">View on Github</a></p>
-      </div>
-    </div>
+<footer class="footer">
+  <div class="jumbotron text-center" style="margin-bottom:0">
+  {{ site.title}}
+  <a href="mailto:{{ site.email }}">{{ site.email }}</a></li>
+  <p><a href="github.com/pe5er/gw3uws_website">View on Github</a></p>
   </div>
-</div>
+</footer>
