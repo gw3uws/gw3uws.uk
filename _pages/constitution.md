@@ -1,4 +1,5 @@
 ---
+permalink: "/constitution"
 date: 2019-09-08
 draft: false
 title: Constitution
