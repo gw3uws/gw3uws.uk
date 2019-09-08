@@ -34,17 +34,11 @@ plugins:
   - jekyll-feed
   - jekyll-sitemap
 
-# Use the pages directory
-include: ['_pages']
-
 # A list of the pages to display in the navigation bar
 header_pages:
   - index.md
-  - _pages/constitution.md
-  - _pages/history.md
+  - constitution.md
+  - history.md
   - licences/foundation.md
   
- # collections:
-  #  pages:
-   #   output: true
-    #  permalink: /:title
+
