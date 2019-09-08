@@ -4,9 +4,6 @@ draft: false
 title: History
 ---
 
-
-# History
-
 ## Club Revival - 2017
 
 In 2017, Peter MØSWN, the current president of the club, founded the current amateur radio society at Swansea University. This following statement explains the process which Peter underwent to found the new club:
