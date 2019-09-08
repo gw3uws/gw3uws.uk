@@ -1,7 +1,7 @@
 ---
 date: 2019-09-08
 draft: false
-title: Index 
+title: Home
 ---
 
 # [Join our society](https://www.swansea-union.co.uk/activities/society/hamradio/)
