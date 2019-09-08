@@ -42,6 +42,7 @@ header_pages:
   - index.md
   - _pages/constitution.md
   - _pages/history.md
+  - licences/foundation.md
   
   collections:
     pages:
