@@ -16,5 +16,5 @@ The original club was called the Electrical and Electronic Engineering Amateur R
 
 The old website for the radio club can still be found on [archive.org](https://web.archive.org/web/19990218075709/http://eeshack3.swan.ac.uk:80/), with the last snapshot being taken on 18th Feb, 1999. The footer is marked 30 Jan 1996
 
-![old club logo](/gw3uws_website/media/oldclublogo.png "Old Club Logo")
+![old club logo](/media/oldclublogo.png "Old Club Logo")
 
