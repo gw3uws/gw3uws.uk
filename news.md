@@ -1,3 +1,3 @@
 ---
-title: History
+title: News
 ---
