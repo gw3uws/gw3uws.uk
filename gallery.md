@@ -4,6 +4,11 @@ title: Gallery
 
 ## YOTA Month 2017
 
+{::nomarkdown}
+
+<!-- HTML CODE-->
+
+
 <script src="https://www.publicalbum.org/js/pa-embed-player.min.js" async></script>
 <div class="pa-embed-player" style="width:100%; height:480px; display:none;"
   data-link="https://photos.app.goo.gl/bbai7TCyUjBidMdm1"
@@ -15,3 +20,5 @@ title: Gallery
   <img data-src="https://lh3.googleusercontent.com/X_wY7kBXSDNrFT5KJTpav_tqX_rKO_FfYF8yt5XCPKA5PVBOSHyrfvuNdRFZu9uUm_vWPtev8vSo9CyhEQhkhQyEya3o7rkjPi3eRskcCDMMdlzTaHn96VLB33BYRLqsgfQjSEHOX_w=w1920-h1080" src="" alt="" />
   <img data-src="https://lh3.googleusercontent.com/ePED-Y12dnOl3ZlvKSaTfjZBL1zIAQQ3vMw8si5M_xjr93NMFinfws3VX8CaT_z04IlB3PVY2vFmhK1tpf4WSPzzbGZgge-L_K87aZF73xuOAYdDnzFPeskdtrZH08ZYEkq1bFHvIGY=w1920-h1080" src="" alt="" />
 </div>
+
+{:/}
