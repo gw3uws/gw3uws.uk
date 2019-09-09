@@ -38,4 +38,5 @@ plugins:
 header_pages:
   - constitution.md
   - history.md 
+  - pages/contact.md
 
