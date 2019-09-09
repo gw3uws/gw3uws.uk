@@ -38,7 +38,5 @@ plugins:
 header_pages:
   - index.md
   - constitution.md
-  - history.md
-  - licences/foundation.md
-  
+  - history.md 
 
