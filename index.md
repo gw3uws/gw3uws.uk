@@ -21,7 +21,7 @@ We will be running events throughout the year, and activities ranging from Summe
 
 ## How can I get involved?
 
-Register your interest to join the society [https://docs.google.com/forms/d/e/1FAIpQLSeJmuNy6NuHM9JzcQKgd0vAH7pd0rg3Z5jy7C1GstbnQtOmJw/viewform](here). I will then get in touch and introduce you to what is going on. If you would like to become an official member, join up at our society page
+Register your interest to join the society [here](https://docs.google.com/forms/d/e/1FAIpQLSeJmuNy6NuHM9JzcQKgd0vAH7pd0rg3Z5jy7C1GstbnQtOmJw/viewform). I will then get in touch and introduce you to what is going on. If you would like to become an official member, join up at our society page
 
 
 ## How can I get my licence?
