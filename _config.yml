@@ -37,6 +37,8 @@ plugins:
 # A list of the pages to display in the navigation bar
 header_pages:
   - constitution.md
+  - gallery.md
+  - news.md
   - history.md 
-  - pages/contact.md
+  - contact.md
 
