@@ -4,7 +4,7 @@ title: Gallery
 
 ## YOTA Month 2017
 
-![View of the Clock Tower](/gw3uws_website/media/yotamonth2017/yotamonth2017(1).jpg "View of the Clock Tower")
+![View of the Clock Tower](/media/yotamonth2017/yotamonth2017(1).jpg "View of the Clock Tower")
 
 ![HF Antenna](/media/yotamonth2017/yotamonth2017(2).jpg "HF Antenna")
 
