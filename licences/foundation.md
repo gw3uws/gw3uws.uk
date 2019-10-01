@@ -32,6 +32,8 @@ The slides we use are made public below:
 
 ### 2018 Slides
 
+Last year we did slides. This year we probably won't, but you can look at them anyway if you like!
+
 Note: These slides are not comprehensive, and are only there to give you an outline for the Foundation Syllabus. We would recommend checking out the resources at [radiotutor.uk](https://radiotutor.uk/l/F/course) or reading a copy of [Foundation Licence Now](https://www.rsgbshop.org/acatalog/Online_Catalogue_Training_19.html) (available through the club) to ensure your success in the exam
 
 ### [Week 1 Slides](https://docs.google.com/presentation/d/1ILKrBWw4b5Km_eErnu9nxuGu0Gsh1Hx2-SYh09xiVPc/edit?usp=sharing)
