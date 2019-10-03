@@ -27,3 +27,8 @@ Register your interest to join the society [here](https://docs.google.com/forms/
 ## How can I get my licence?
 
 Getting an amateur radio licence is easy! You need to complete some practical assessments to show that you can operate a radio safely, then take a 26 question, multiple choice exam. Nothing to worry about and we will be (and already have been) running Foundation courses at Swansea University. If you are still eager for more, we will be running intermediate and full courses as required. Since the formation of the society in February 2018, we have already had four of our members pass the foundation exam.
+
+## Our Goals for 19/20
+
+* Launch a High Altitude Balloon
+* Run an exam session in both semesters
